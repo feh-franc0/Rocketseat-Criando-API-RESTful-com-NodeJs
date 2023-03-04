@@ -1,4 +1,4 @@
-# typescript basico
+# typescript básico
 
 ### `npm init -y`
 
