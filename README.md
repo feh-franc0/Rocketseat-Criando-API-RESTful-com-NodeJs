@@ -1,21 +1,6 @@
 # typescript básico
 
-### `npm init -y`
+### `npm run dev`
 
-inicia o projeto node
+script que roda o projeto e atualiza o projeto caso algo seja modificado
 
-### `npm i -D typescript`
-
-baixa o typescript no projeto
-
-### `npx tsc --init`
-
-cria o arquivo de configuração do typescript
-
-### `npx tsc src/index.ts`
-
-transforma o arquivo **.ts** em **.js**
-
-### `node src/index.js`
-
-executa o arquivo que você fez em typescript, agora convertido em javascript
