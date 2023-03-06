@@ -1,6 +1,7 @@
 /node_modules
 /.pnp
 .pnp.js
+tmp/app.db
 
 /coverage
 
