@@ -11,6 +11,10 @@ app.register(transactionsRoutes, {
   prefix: 'transactions',
 })
 
+app.get('/hello', () => {
+  return 'Hello world!'
+})
+
 app
   .listen({
     port: env.PORT,
